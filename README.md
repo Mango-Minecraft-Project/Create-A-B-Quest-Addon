@@ -1,4 +1,6 @@
-# Create: A&B Quest Addon / 機械動力：永無止境 任務擴展
+# Create: A&B Quest Addon<br>機械動力：永無止境 任務擴展
+
+[HackMD](https://hackmd.io/@mango-side-project/cab_quest_addon)
 
 [TOC]
 

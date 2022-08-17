@@ -4,44 +4,63 @@
 
 ## Quest Task 任務列表
 
+
 - [ ] 原版農場
-    <details>
-    <summary>原版農場</summary>
     - [ ] 地表植物
-        - [ ] 竹子
-        - [ ] 仙人掌
-        - [ ] 可可豆
-        - [ ] 甘蔗
-        - [ ] 甜莓
-        - [ ] 藤蔓
+        <details>
+        <summary>地表植物</summary>
+        竹子<br>
+        仙人掌<br>
+        可可豆<br>
+        甘蔗<br>
+        甜莓<br>
+        藤蔓<br>
+        </details>
     - [ ] 耕地作物
-        - [ ] 甜菜根
-        - [ ] 胡蘿蔔
-        - [ ] 西瓜
-        - [ ] 馬鈴薯
-        - [ ] 南瓜
-        - [ ] 小麥
+        <details>
+        <summary>耕地作物</summary>
+        甜菜根<br>
+        胡蘿蔔<br>
+        西瓜<br>
+        馬鈴薯<br>
+        南瓜<br>
+        小麥<br>
+        </details>
     - [ ] 水下植物
-        - [ ] 海帶
+        <details>
+        <summary>水下植物</summary>
+        海帶<br>
+        </details>
     - [ ] 終界植物
-        - [ ] 歌萊果
+        <details>
+        <summary>終界植物</summary>
+        歌萊果<br>
+        </details>
     - [ ] 地獄植物
-        - [ ] 蕈菇
-        - [ ] 垂泣藤
-        - [ ] 扭曲藤
-        - [ ] 地獄疙瘩
-        - [ ] 地獄芽
-        - [ ] 蕈根
-        - [ ] 菌絲石 
+        <details>
+        <summary>地獄植物</summary>
+        蕈菇<br>
+        垂泣藤<br>
+        扭曲藤<br>
+        地獄疙瘩<br>
+        地獄芽<br>
+        蕈根<br>
+        菌絲石<br>
+        </details>
     - [ ] 偽植物
-        - [ ] 珊瑚
-        - [ ] 海鞘
-        - [ ] 蘑菇
+        <details>
+        <summary>偽植物</summary>
+        珊瑚<br>
+        海鞘<br>
+        蘑菇<br>
+        </details>
     - [ ] 其他
-        - [ ] 草地
-        - [ ] 菌絲土
-        - [ ] ...
-    </details>
+        <details>
+        <summary>其他</summary>
+        草地<br>
+        菌絲土<br>
+        ...<br>
+        </details>
 - [ ] ...
 
 ---
